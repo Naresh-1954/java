@@ -1,0 +1,1 @@
+welcome to ci integration from vscode to jenkins using github repo
